@@ -58,4 +58,11 @@ li a:hover {
       padding: 20px;
       display: flex;
       justify-content: center;
-  
+    }
+
+      .caixaMakonha3{
+        position: absolute;
+        top: 150px;
+        width: 50%;
+        height: 150px;
+        right: 50%
